@@ -1,0 +1,9 @@
+# Para npm ou yarn
+**/node_modules/
+
+# Build outputs (se aplicável)
+**/build/
+**/dist/
+
+# Arquivos sensíveis
+*.env
